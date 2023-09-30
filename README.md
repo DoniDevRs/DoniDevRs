@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning SwiftUI 
 - 📫 How to reach me: donidevrs@gmail.com
 - 😄 Pronouns: he/him
+- 👨‍💻 Skills: Swift Language, UIKit, SwiftUI, ViewCode, Xib, Storyboard, MVC, MVVM-C, RxSwift, Design Patterns, Dependency Injection, REST API’s, CocoaPods, Carthage, SPM, Git,
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
