@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Doni — Front-end & iOS Developer</h1>
 
 <p align="center">
-  <strong>Front-end Developer (React & Angular) | iOS Developer (5+ years)</strong><br/>
+  <strong>Front-end Developer (React & Angular) | iOS Developer </strong><br/>
   Crafting modern Web applications while leveraging a solid engineering background from native iOS development.
 </p>
 
@@ -11,7 +11,7 @@
 
 I'm a software developer with **5 years of experience building native iOS applications** used by millions of users while working remotely at **Inter Bank**.
 
-In 2025, I began a new chapter as a **Software Developer** for the **Government of Goiás**, working with **Angular, TypeScript and Java** in large-scale public systems — while specializing in **React**, my primary front-end focus for future international opportunities.
+In 2025, I began a new chapter as a **Software Developer** for the **Government of Goiás**, working with **Angular, TypeScript and Java backend based** in large-scale public systems — while specializing in **React**.
 
 My hybrid background (Web + iOS) gives me strong skills in architecture, performance, clean code, UI/UX, and scalable development.
 
@@ -22,18 +22,17 @@ My hybrid background (Web + iOS) gives me strong skills in architecture, perform
 - 🍎 **5 years crafting reliable experiences in Swift, UIKit & SwiftUI**
 - 🔥 Expertise in **architecture, modularization and design patterns**
 - 🌐 Strong transition to Web with **React & Angular**
-- 📦 Experience building enterprise-level systems (banking + government)
+- 📦 Experience building enterprise-level systems **(banking + government)**
 - 🎯 Ability to think as a Mobile Engineer AND a Front-end Engineer
 - 🚀 Fast learning & strong problem-solving mindset
 
 ---
 
-## 🎯 Current Focus (2025 → 2026)
+## 🎯 Current Focus (2026)
 
 - 🔷 **React** (Hooks, Redux Toolkit, Firebase Auth, Routing)
 - 🅰️ **Angular** (RxJS, Forms, Routing, PrimeNG)
 - 🧪 Clean Code, architecture and scalable front-end patterns
-- 🌍 Preparing for **international opportunities**
 
 ---
 
