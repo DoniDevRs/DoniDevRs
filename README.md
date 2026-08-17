@@ -1,112 +1,89 @@
-# 👋 Hi, I'm Doni — Front-end, Mobile & iOS Developer  
+# 👋 Hi, I'm Doni — iOS Developer
 
-![Front-end Developer](https://img.shields.io/badge/Front--end-Developer-blue?style=for-the-badge)
 ![iOS Developer](https://img.shields.io/badge/iOS-Developer-black?style=for-the-badge&logo=apple)
-![React Developer](https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-Mobile-blue?style=for-the-badge&logo=react)
-![Angular](https://img.shields.io/badge/Angular-Developer-dd0031?style=for-the-badge&logo=angular&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-Developer-f05138?style=for-the-badge&logo=swift&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Agentic_AI-Development-orange?style=for-the-badge)
 
-Front-end Developer (React, React Native & Angular) | iOS Developer  
-Crafting modern Web & Mobile applications while leveraging a strong engineering background from 5 years of native iOS development.
-
----
-
-## 🚀 About Me  
-
-I'm a software developer with **5 years of experience building native iOS applications** used by millions of users while working remotely at Inter Bank.
-
-In 2025, I began a new chapter as a Software Developer for the Government of Goiás, working with **Angular, TypeScript and a Java-based backend** in large-scale public systems — while specializing in **React & React Native**.
-
-My hybrid background (Web + Mobile + iOS) gives me strong skills in **architecture, performance, clean code, UI/UX, reuse, and scalable development**.  
-Thanks to my iOS background, transitioning into **React Native** became natural — bringing mobile thinking, layout precision and performance-oriented practices into cross-platform development.
+iOS Developer (Swift, SwiftUI, UIKit) | Agentic AI-Driven Development (Claude Code, MCP, SDD)
+Building scalable, user-focused native iOS applications, currently expanding into spec-driven, agent-assisted development workflows.
 
 ---
 
-## 🧠 What I Bring as a Hybrid Developer  
+## 🚀 About Me
 
-🍎 **5 years crafting reliable native experiences with Swift, UIKit & SwiftUI**  
-🔥 Strong expertise in architecture, modularization & design patterns  
-📱 Solid experience in **mobile development (iOS + React Native)**  
-🌐 Smooth transition to Web with **React & Angular**  
-📦 Experience building enterprise-level systems (banking + government)  
-🎯 Ability to think as a **Mobile Engineer AND a Front-end Engineer**  
-🚀 Fast learning & strong problem-solving mindset  
+I'm an iOS Developer with **5+ years of experience** building native mobile applications for high-traffic, enterprise-grade environments — including features used by millions of users while working remotely at Inter Bank.
+
+I'm currently expanding into **agentic software engineering**: using Claude Code as part of a structured, spec-driven development workflow (SDD) — combining persistent project context, custom Skills, specialized subagents, and MCP integrations to standardize and accelerate iOS delivery.
 
 ---
 
-## 🎯 Current Focus (2026)  
+## 🧠 What I Bring
 
-### 🔷 React  
-Hooks • Redux Toolkit • Firebase Auth • Routing • Testing  
-
-### 📱 React Native  
-Mobile UI • Navigation • REST APIs • Components • State Management  
-
-### 🅰️ Angular  
-RxJS • Reactive Forms • Routing • PrimeNG  
-
-### 🧪 Architecture & Quality  
-Clean Code • Modular Front-end • Scalable Patterns  
+🍎 **5+ years crafting reliable native experiences with Swift, UIKit & SwiftUI**
+🏗️ Strong expertise in Clean Architecture, MVVM-C, and modular/multi-repo architectures
+🤖 Hands-on experience building agentic development workflows with Claude Code
+📐 Practice applying Spec-Driven Development (SDD) to real feature delivery
+♿ Focus on accessibility (WCAG 2.1 AA) as part of the development process
+📦 Experience building enterprise-level systems (banking)
 
 ---
 
-## 🛠️ Tech Stack  
+## 🎯 Current Focus (2026)
 
-### 🎨 Front-end  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-dd0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![RTL](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
+### 🍎 iOS Development
+Swift • SwiftUI • UIKit • MVVM-C • Clean Architecture • Swift Package Manager
 
-### 📱 Mobile Development  
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+### 🤖 Agentic AI Development
+Claude Code • Spec-Driven Development (SDD) • MCP (Model Context Protocol) • Custom Skills & Subagents
+
+### 🧪 Architecture & Quality
+Accessibility (WCAG 2.1 AA) • Unit & UI Testing • Automated Accessibility Auditing
+
+---
+
+## 🛠️ Tech Stack
+
+### 🍎 iOS Development
 ![Swift](https://img.shields.io/badge/Swift-f05138?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-blue?style=for-the-badge&logo=apple)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0d96f6?style=for-the-badge&logo=swift&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-architecture-green?style=for-the-badge)
+![MVVM-C](https://img.shields.io/badge/MVVM--C-architecture-green?style=for-the-badge)
+![SPM](https://img.shields.io/badge/Swift_Package_Manager-orange?style=for-the-badge&logo=swift&logoColor=white)
 
-### 🧰 Tools & Platforms  
+### 🤖 Agentic AI Development
+![Claude Code](https://img.shields.io/badge/Claude_Code-AI_Agent-D97757?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-blueviolet?style=for-the-badge)
+
+### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
 
 ---
 
-## 📂 Featured Projects  
+## 📂 Featured Projects
 
-### 🔷 React Projects  
-| Project | Description |  
-|--------|-------------|  
-| **E-commerce App** | Full store flow with Redux Toolkit, Firebase Auth, Cart logic, Product CRUD. |
+### 🤖 Agentic AI Development
 
-### 📱 React Native Projects *(coming soon)*   
+| Project | Description |
+|--------|-------------|
+| **[SuperApp Agentic Lab](https://github.com/DoniDevRs/superapp-agentic-workflow)** | End-to-end demonstration of an Agentic SDLC for iOS: redesigned a Pix transfer journey using Spec-Driven Development with Claude Code — multi-repo architecture, custom Skills & subagents, MCP (GitHub) integration, automated WCAG 2.1 AA accessibility auditing, and full test coverage. |
 
-### 🍎 iOS Projects  
-| Project | Description |  
-|--------|-------------|  
-| **MovieFlix** | Movie browser app consuming an API, routing, filtering & modular components. |  
-| **Heroes CRUD** | CRUD app in Swift with UIKit, clean modules & reusable components. |  
-| **SUWeather** | Weather app using APIs, MVVM-C, dependency injection & clean architecture. |  
-| **Quotes App** | Random quotes generator with animations & SwiftUI. |  
+### 🍎 iOS Projects
+
+| Project | Description |
+|--------|-------------|
+| **MovieFlix** | Movie browser app consuming an API, routing, filtering & modular components. |
+| **Heroes CRUD** | CRUD app in Swift with UIKit, clean modules & reusable components. |
+| **SUWeather** | Weather app using APIs, MVVM-C, dependency injection & clean architecture. |
+| **Quotes App** | Random quotes generator with animations & SwiftUI. |
 | **MyHeroes (Swift)** | Modular iOS app with UIKit, clean architecture & reusable components. |
 
 ---
 
-## 📬 Let's Connect  
+## 📬 Let's Connect
 
-✨ Open for collaboration, new opportunities and international roles.  
-
-
-
-
-
-
+✨ Open for remote iOS opportunities.
+🔗 [LinkedIn](https://linkedin.com/in/doniramos)
