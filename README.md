@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Doni — iOS Developer
+# Doni Ramos
+**iOS Developer** · Swift, SwiftUI, UIKit · Exploring Agentic AI-Driven Development
 
 ![iOS Developer](https://img.shields.io/badge/iOS-Developer-black?style=for-the-badge&logo=apple)
 ![Swift](https://img.shields.io/badge/Swift-Developer-f05138?style=for-the-badge&logo=swift&logoColor=white)
